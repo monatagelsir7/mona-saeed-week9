@@ -16,3 +16,9 @@ It utilizes the **Diamond Dataset** to perform descriptive statistics using **Pa
 
 ## Summary Statistics
 ![alt text](2024-09-21.png)
+## Diamond Price Distibution
+![alt text](image-1.png)
+## Diamond Cut Ratio
+![alt text](image-2.png)
+## Diamond's Price on Cut
+![alt text](image-3.png)
